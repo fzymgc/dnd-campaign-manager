@@ -1,5 +1,5 @@
 import Head from 'next/head'
-
+console.log("Test");
 export default function Home() {
   return (
     <div className="container">
